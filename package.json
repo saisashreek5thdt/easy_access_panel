@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saisashreek5thdt/easy_access_panel/issues"
   },
-  "homepage": "https://github.com/saisashreek5thdt/easy_access_panel#readme"
+  "homepage": "https://github.com/saisashreek5thdt/easy_access_panel#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
 }
