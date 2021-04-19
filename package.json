@@ -1,0 +1,19 @@
+{
+  "name": "easy_access",
+  "version": "1.0.0",
+  "description": "learning management system for schools, colleges and universities. also for management, teachers and parents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisashreek5thdt/easy_access_panel.git"
+  },
+  "author": "5th dimension technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisashreek5thdt/easy_access_panel/issues"
+  },
+  "homepage": "https://github.com/saisashreek5thdt/easy_access_panel#readme"
+}
