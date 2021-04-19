@@ -1,0 +1,37 @@
+/*** Base Files Start ***/
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+/*** Base Files End ***/
+
+
+/*** Abstracts Files Start ***/
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+/*** Abstracts Files End ***/
+
+/*** Components Files Start ***/
+
+@import "components/buttons";
+@import "components/card";
+@import "components/composition";
+
+/*** Components Files End ***/
+
+/*** Layout Files Start ***/
+
+@import "layout/header";
+
+/*** Layout Files End ***/
+
+/*** Pages Files Start ***/
+
+@import "pages/_home";
+
+/*** Pages Files End ***/

@@ -1,0 +1,47 @@
+/*** Base Files Start ***/
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Bahnschrift", sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  padding: 3rem; }
+
+.heading-primary {
+  height: 100%;
+  position: relative;
+  background-color: #0452A0 !important; }
+  .heading-primary__loginbox {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 40px solid transperant;
+    border-left: 80px solid transperant;
+    border-bottom: 40px solid transperant;
+    background-color: #FFFFFF !important;
+    border-radius: 3px;
+    box-shadow: 0 3rem 6rem #000 !important; }
+
+/*** Base Files End ***/
+/*** Abstracts Files Start ***/
+/* BackGround Colors */
+/* Text Colors */
+/* Radio Colors */
+/*** Abstracts Files End ***/
+/*** Components Files Start ***/
+/*** Components Files End ***/
+/*** Layout Files Start ***/
+/*** Layout Files End ***/
+/*** Pages Files Start ***/
+/*** Pages Files End ***/
