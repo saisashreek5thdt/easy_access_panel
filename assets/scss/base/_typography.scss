@@ -20,6 +20,13 @@ body {
 		background-color: #FFFFFF !important;
 		border-radius: 3px;
 		box-shadow: 0 3rem 6rem #000 !important;
+
+		&--text {
+			font-family: inherit;
+			font-size: 2rem;
+			color: #2D2424;
+		}
+
 	}
 	
 }
